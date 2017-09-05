@@ -1,0 +1,48 @@
+body{
+  color:grey;
+}
+/*the nav bar link styles*/
+a{
+  color:grey;
+  padding: 20%;
+  border-radius: 9px;
+  text-decoration: none;
+
+}
+  a:hover{
+    color:black;
+    padding: 20%;
+    background-color: white;
+    border-radius: 9px;
+    text-decoration: none;
+  }
+.head{
+  background: url(../img/1.jpg) no-repeat center center ;
+  -webkit-background-size: cover;
+}
+.centerBlock {
+  display: table;
+  margin: auto;
+}
+.getStarted{
+  width: 100%;
+  padding: 10%;
+  border: 1px solid white;
+}
+.tabs{
+  background-color: #333333;
+  text-align: center;
+  padding:30% 20%;
+  color: white;
+  margin: 1%;
+}
+.foot{
+  background: url(../img/5.jpg) no-repeat center center ;
+  -webkit-background-size: cover;
+}
+.contactForm{
+	border:0px solid white;
+	border-bottom:2px solid #f5f5f5;
+	padding:5% 10%;
+	width:100%;
+}
